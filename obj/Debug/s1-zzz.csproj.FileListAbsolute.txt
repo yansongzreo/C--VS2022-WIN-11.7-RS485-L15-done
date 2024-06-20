@@ -1,0 +1,78 @@
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\bin\Debug\s1-zzz.exe.config
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\bin\Debug\s1-zzz.exe
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\bin\Debug\s1-zzz.pdb
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.csproj.SuggestedBindingRedirects.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.exe
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\obj\Debug\s1-zzz.pdb
+C:\Users\huayan\Desktop\s1-zzz\bin\Debug\s1-zzz.exe.config
+C:\Users\huayan\Desktop\s1-zzz\bin\Debug\s1-zzz.exe
+C:\Users\huayan\Desktop\s1-zzz\bin\Debug\s1-zzz.pdb
+C:\Users\huayan\Desktop\s1-zzz\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.csproj.CopyComplete
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.exe
+C:\Users\huayan\Desktop\s1-zzz\obj\Debug\s1-zzz.pdb
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\bin\Debug\s1-zzz.exe.config
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\bin\Debug\s1-zzz.exe
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\bin\Debug\s1-zzz.pdb
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.SuggestedBindingRedirects.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.CopyComplete
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.exe
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\obj\Debug\s1-zzz.pdb
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\bin\Debug\Newtonsoft.Json.dll
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\公司资料\zzzzzz\s1-zzz\s1-zzz\bin\Debug\Newtonsoft.Json.xml
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\bin\Debug\s1-zzz.exe.config
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\bin\Debug\s1-zzz.exe
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\bin\Debug\s1-zzz.pdb
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\bin\Debug\Newtonsoft.Json.dll
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\bin\Debug\Newtonsoft.Json.xml
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.csproj.CopyComplete
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.exe
+D:\z\company_data\zzzzzz\After\s1-zzz\s1-zzz\obj\Debug\s1-zzz.pdb
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.exe.config
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.exe
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.pdb
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\bin\Debug\Newtonsoft.Json.dll
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\bin\Debug\Newtonsoft.Json.xml
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.CopyComplete
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.exe
+D:\z\company_data\zzzzzz\After\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.pdb
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.exe.config
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.exe
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\bin\Debug\s1-zzz.pdb
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\bin\Debug\Newtonsoft.Json.dll
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\bin\Debug\Newtonsoft.Json.xml
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.AssemblyReference.cache
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.SuggestedBindingRedirects.cache
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1_zzz.Form1.resources
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1_zzz.Properties.Resources.resources
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.GenerateResource.cache
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.CoreCompileInputs.cache
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.csproj.CopyComplete
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.exe
+D:\AAAZZZ\s1-zzz0 - L10\s1-zzz\obj\Debug\s1-zzz.pdb
